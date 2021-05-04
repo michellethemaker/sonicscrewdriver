@@ -1,0 +1,193 @@
+Ready to decode IR!
+
+hmm
+
+hmm
+
+hmm
+
+hmm
+
+hmm
+
+hmm
+
+hmm
+
+hmm
+
+hmm
+
+hmm
+
+hmm
+
+hmm
+
+hmm
+
+hmm
+
+hmm
+
+hmm
+
+hmm
+
+hmm
+
+hmm
+
+hmm
+
+hmm
+
+hmm
+
+hmm
+
+hmm
+
+hmm
+
+hmm
+
+hmm
+
+hmm
+
+hmm
+
+hmm
+
+hmm
+
+hmm
+
+hmm
+
+hmm
+
+hmm
+
+hmm
+
+hmm
+
+hmm
+
+hmm
+
+hmm
+
+hmm
+
+hmm
+
+hmm
+
+hmm
+
+hmm
+
+hmm
+
+hmm
+
+hmm
+
+hmm
+
+hmm
+
+hmm
+
+hmm
+
+hmm
+
+hmm
+
+hmm
+
+hmm
+
+hmm
+
+hmm
+
+hmm
+
+hmm
+
+hmm
+
+hmm
+
+hmm
+
+hmm
+
+hmm
+
+
+
+Received: 
+
+OFF 	ON
+64912 usec, 260 usec
+320 usec, 20 usec
+1060 usec, 80 usec
+400 usec, 20 usec
+260 usec, 20 usec
+140 usec, 80 usec
+1260 usec, 20 usec
+200 usec, 20 usec
+60 usec, 80 usec
+320 usec, 20 usec
+180 usec, 20 usec
+40 usec, 60 usec
+460 usec, 20 usec
+300 usec, 20 usec
+11860 usec, 120 usec
+360 usec, 20 usec
+180 usec, 20 usec
+20 usec, 80 usec
+280 usec, 20 usec
+100 usec, 60 usec
+500 usec, 20 usec
+340 usec, 20 usec
+160 usec, 100 usec
+300 usec, 20 usec
+140 usec, 20 usec
+20 usec, 20 usec
+760 usec, 40 usec
+int IRsignal[] = {
+// ON, OFF (in 10's of microseconds)
+	26, 32,
+	2, 106,
+	8, 40,
+	2, 26,
+	2, 14,
+	8, 126,
+	2, 20,
+	2, 6,
+	8, 32,
+	2, 18,
+	2, 4,
+	6, 46,
+	2, 30,
+	2, 1186,
+	12, 36,
+	2, 18,
+	2, 2,
+	8, 28,
+	2, 10,
+	6, 50,
+	2, 34,
+	2, 16,
+	10, 30,
+	2, 14,
+	2, 2,
+	2, 76,
+	4, 0};
